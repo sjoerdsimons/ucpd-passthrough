@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "QFN_D01PUR_STM"
-		(at 0 0 0)
+		(at 0 1.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "31fc70aa-2e9e-4b2e-95d6-4ed4a83d95ab")
@@ -1466,7 +1466,7 @@
 			)
 		)
 	)
-	(fp_text user "${REFERENCE}"
+	(fp_text user "%R"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")

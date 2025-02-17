@@ -162,6 +162,19 @@
 		(layer "F.Fab")
 		(uuid "bd70fcf1-b621-44f3-bcd3-762ed3c0a244")
 	)
+	(fp_text user "%R"
+		(at -3 -3.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "9fffdcfc-912b-4743-a2bb-5df7182b546e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(pad "1" smd rect
 		(at -2.603 0)
 		(size 2 5.52)
