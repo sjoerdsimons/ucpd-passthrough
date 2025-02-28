@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "51934d48-30c4-4285-917f-3208bac9a358")
 	(paper "A4")
+	(title_block
+		(title "UCPD-Passthrough")
+		(rev "0.1")
+		(comment 1 "License: CERN-OHL-P-2.0")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x03_Pin"
 			(pin_names

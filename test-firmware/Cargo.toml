@@ -2,6 +2,9 @@
 name = "test-firmware"
 version = "0.1.0"
 edition = "2021"
+authors = ["Sjoerd Simons <sjoerd@luon.net>"]
+license = "MIT OR Apache-2.0"
+description = "UCPD-Passthrough test firmware"
 
 [dependencies]
 cortex-m = { version = "0.7.7", features = ["critical-section-single-core"] }
